@@ -1,2 +1,2 @@
 # phone_website
-To better trading with customer online
+To better trading with customers online
